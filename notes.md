@@ -6,6 +6,9 @@ https://leetcode.com/problems/min-stack/
 https://leetcode.com/problems/valid-parentheses/
 https://leetcode.com/problems/valid-parenthesis-string/
 
+## Decode Str
+https://leetcode.com/problems/decode-string/
+
 ## Generate parentheses
 https://leetcode.com/problems/generate-parentheses/
 https://leetcode.com/problems/longest-valid-parentheses/
@@ -20,6 +23,11 @@ https://leetcode.com/problems/simplify-path/
 ## Visible sunset
 https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 https://leetcode.com/problems/the-skyline-problem/
+
+https://leetcode.com/problems/next-greater-element-i/
+
+## remove dups
+https://leetcode.com/problems/remove-duplicate-letters/
 
 # Arrays
 
