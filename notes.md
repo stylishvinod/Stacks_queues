@@ -5,6 +5,8 @@ https://leetcode.com/problems/min-stack/
 ## valid parenthesis
 https://leetcode.com/problems/valid-parentheses/
 https://leetcode.com/problems/valid-parenthesis-string/
+https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 
 ## Decode Str
 https://leetcode.com/problems/decode-string/
@@ -38,3 +40,8 @@ https://leetcode.com/problems/container-with-most-water/
 
 ## array reconstruction
 https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
+
+
+# Queue
+https://leetcode.com/problems/design-circular-deque/
+https://leetcode.com/problems/design-circular-queue/
